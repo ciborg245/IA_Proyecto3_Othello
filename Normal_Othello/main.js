@@ -8,7 +8,7 @@ const socket = io.connect(`http://${HOST}:${PORT}`)
 var tileRep = ['_', 'X', 'O'],
     N = 8;
 
-username = 'ciborg245'
+username = 'ciborgNormal'
 tid = 12
 
 board = [0,

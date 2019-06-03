@@ -76,7 +76,7 @@ board = [0,
   0,
   0]
 
-// move = othello.getNextMove(board, 1, 2)
+move = othello.getNextMove(board, 1, 2)
 
 function humanBoard(board){
 
